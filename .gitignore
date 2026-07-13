@@ -1,0 +1,8 @@
+.bundle/
+vendor/bundle/
+*.gem
+.ruby-version
+.rbenv-version
+.DS_Store
+coverage/
+tmp/
